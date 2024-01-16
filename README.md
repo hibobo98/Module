@@ -3,7 +3,10 @@ modularization, fastapi, yolo, image captioning
 
 
 - 실행코드
+  ```
+  # Terminal
   uvicorn mainapp:app
+  ```
 
 - 다운받은 html 적용 방법
   - html 출처 : https://www.free-css.com/free-css-templates
